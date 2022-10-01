@@ -1,6 +1,6 @@
-- Estou Estudando Ciência e engenharia de dados
-- Acadêmica em Engenharia da computação
-- Para entrar em contato: eduardomoura512@outlook.com
+- 🤚 Olá Sou Eduardo Moura! Estou Estudando Ciência e engenharia de dados
+- 👨🏻‍💻 Acadêmica em Engenharia da computação
+- 💬 Para entrar em contato: eduardomoura512@outlook.com
 <div align="center">
   <a href="https://github.com/Theardripper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Theardripper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
