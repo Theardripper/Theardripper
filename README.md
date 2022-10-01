@@ -1,6 +1,7 @@
 - 🤚 Olá Sou Eduardo Moura! Estou Estudando Ciência e engenharia de dados
-- 👨🏻‍💻 Acadêmica em Engenharia da computação
+- 👨🏻‍💻 Acadêmico em Engenharia da computação
 - 💬 Para entrar em contato: eduardomoura512@outlook.com
+
 <div align="center">
   <a href="https://github.com/Theardripper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Theardripper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -16,6 +17,6 @@
   <img align="center" alt="Theardripper-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Theardripper-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"">
   <img align="center" alt="Theardripper-Aws" height="30" width="40" src="https://icongr.am/devicon/amazonwebservices-original.svg"">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+ 
 </div>
 
