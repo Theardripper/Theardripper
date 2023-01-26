@@ -1,5 +1,5 @@
-- 🤚 Olá Sou Eduardo Moura! Estou Estudando Ciência e engenharia de dados
-- 👨🏻‍💻 Acadêmico em Engenharia da computação
+- 🤚 Olá Sou Eduardo Moura! Sou formado em Engenharia da computação
+- 👨🏻‍💻 Desenvolvedor de software
 - 💬 Para entrar em contato: eduardomoura512@outlook.com
 
 <div align="center">
