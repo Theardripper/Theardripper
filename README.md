@@ -1,5 +1,6 @@
 - 🤚 Olá Sou Eduardo Moura! Sou formado em Engenharia da computação
 - 👨🏻‍💻 Desenvolvedor de software
+- 🦾 Estudando Desenvolvimento Web Java
 - 💬 Para entrar em contato: eduardomoura512@outlook.com
 
 <div align="center">
@@ -9,8 +10,8 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Theardripper-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Theardripper-Postgree" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"">
+  <img align="center" alt="Theardripper-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Theardripper-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"">
   <img align="center" alt="Theardripper-Mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"">
   <img align="center" alt="Theardripper-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"">
   <img align="center" alt="Theardripper-Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"">
@@ -20,3 +21,6 @@
  
 </div>
 
+
+            
+          
