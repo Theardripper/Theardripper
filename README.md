@@ -1,6 +1,7 @@
-- 🤚 Olá Sou Eduardo Moura! Sou formado em Engenharia da computação
+- 🤚 Olá Sou Eduardo Moura! Sou formado em Engenharia da computação, Eu sou um desenvolvedor Full Stack Java apaixonado por criar soluções inovadoras e escaláveis. Com uma sólida experiência em desenvolvimento web, estou preparado para enfrentar desafios tanto no frontend quanto no backend. Meu conhecimento abrange desde a criação de interfaces de usuário atraentes e responsivas até a implementação de sistemas robustos nos bastidores.
+- 
 - 👨🏻‍💻 Desenvolvedor de software
-- 🦾 Estudando Desenvolvimento Web Java
+- 🦾 Estudando Desenvolvimento Web Java full Stack
 - 💬 Para entrar em contato: eduardomoura512@outlook.com
 
 <div align="center">
