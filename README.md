@@ -1,8 +1,10 @@
-- 🤚 Olá Sou Eduardo Moura! Sou formado em Engenharia da computação, Eu sou um desenvolvedor Full Stack Java apaixonado por criar soluções inovadoras e escaláveis. Com uma sólida experiência em desenvolvimento web, estou preparado para enfrentar desafios tanto no frontend quanto no backend. Meu conhecimento abrange desde a criação de interfaces de usuário atraentes e responsivas até a implementação de sistemas robustos nos bastidores.
-  
-- 👨🏻‍💻 Desenvolvedor de software
-- 🦾 Estudando Engenharia de Software 🇺🇸
-- 💬 Para entrar em contato: eduardomoura512@outlook.com
+🤚 Hello, I'm Eduardo Moura! I have a degree in Computer Engineering and I'm currently pursuing a degree in Software Engineering internationally. I'm a Full Stack Java Developer passionate about creating innovative and scalable solutions. With a solid background in web development, I'm prepared to tackle challenges both on the frontend and backend. My expertise ranges from building attractive and responsive user interfaces to implementing robust systems behind the scenes.
+
+- 👨🏻‍💻 Software Developer
+
+- 🦾 Studying Software Engineering 🇺🇸
+
+- 💬 Get in touch: eduardomoura512@outlook.com
 
 <div align="center">
   <a href="https://github.com/Theardripper">
