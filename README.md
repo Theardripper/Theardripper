@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 Software Developer
 
-- 🦾 Studying Software Engineering 🇺🇸
+- 🦾 Studying Software Engineering 
 
 - 💬 Get in touch: eduardomoura512@outlook.com
 
