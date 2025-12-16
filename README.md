@@ -49,8 +49,10 @@
 
 ### 📬 Get in touch
 
-| Canal | Link |
-| :--- | :--- |
-| **Email** | [eduardomoura512@outlook.com](mailto:eduardomoura512@outlook.com) |
-| **LinkedIn** | [https://www.linkedin.com/in/eduardo-moura-7969531ab/] |
-| **GitHub** | [@Theardripper](https://github.com/Theardripper) |
+<a href="https://www.linkedin.com/in/eduardo-moura-7969531ab/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:eduardomoura512@outlook.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
+
