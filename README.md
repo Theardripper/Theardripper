@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Eduardo Moura
 
-🌟 **Full Stack Java Developer** | **Comp. Eng. (BSc) | Software Eng. (Estudante)**
+🌟 **Full Stack Java Developer** | **Comp. Eng. (BSc) | Software Eng. (Studant)**
 
 ---
 
