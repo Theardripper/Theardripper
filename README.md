@@ -2,7 +2,9 @@
 
 🌟 **Full Stack Java Developer** | **Comp. Eng. (BSc) | Software Eng. (Estudante)**
 
- Hello, I'm Eduardo Moura! I have a degree in Computer Engineering and I'm currently pursuing a degree in Software Engineering internationally. I'm a Full Stack Java Developer passionate about creating innovative and scalable solutions. With a solid background in web development, I'm prepared to tackle challenges both on the frontend and backend. My expertise ranges from building attractive and responsive user interfaces to implementing robust systems behind the scenes.
+---
+
+#### Hello, I'm Eduardo Moura! I have a degree in Computer Engineering and I'm currently pursuing a degree in Software Engineering internationally. I'm a Full Stack Java Developer passionate about creating innovative and scalable solutions. With a solid background in web development, I'm prepared to tackle challenges both on the frontend and backend. My expertise ranges from building attractive and responsive user interfaces to implementing robust systems behind the scenes.
 ---
 
 ## 🛠️ My skills and stacks
