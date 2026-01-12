@@ -51,6 +51,7 @@
 ## 📊 Statistics GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Theardripper&show_icons=true&theme=radical)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Theardripper&theme=dark)](https://git.io/streak-stats)
 
 ---
