@@ -50,8 +50,8 @@
 
 ## 📊 Statistics GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Theardripper&show_icons=true&theme=dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Theardripper&layout=compact&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Theardripper&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Theardripper&theme=dark)](https://git.io/streak-stats)
 
 ---
 
