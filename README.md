@@ -1,8 +1,8 @@
 <div align="right">
   <table>
     <tr>
-      <td>🇺🇸 <a href="#-english-version">English</a></td>
-      <td>🇧🇷 <a href="#-versão-em-português">Português</a></td>
+      <td>🇺🇸 <b>English</b></td>
+      <td>🇧🇷 <a href="./README-BR.md">Português</a></td>
     </tr>
   </table>
 </div>
@@ -13,27 +13,15 @@
 
 ---
 
-## 🌎 Choose your language / Escolha seu idioma
-
-<details open>
-<summary><b>🇺🇸 English Version</b></summary>
-<br />
+## 🌎 About Me
 
 #### Hello, I'm Eduardo Moura! I have a degree in Computer Engineering and I'm currently pursuing a degree in Software Engineering internationally. I'm a Full Stack Java Developer passionate about creating innovative and scalable solutions. With a solid background in web development, I'm prepared to tackle challenges both on the frontend and backend. My expertise ranges from building attractive and responsive user interfaces to implementing robust systems behind the scenes.
-</details>
-
-<details>
-<summary><b>🇧🇷 Versão em Português</b></summary>
-<br />
-
-#### Olá, eu sou o Eduardo Moura! Sou graduado em Engenharia de Computação e atualmente estou cursando Engenharia de Software internacionalmente. Sou um Desenvolvedor Java Full Stack apaixonado por criar soluções inovadoras e escaláveis. Com uma base sólida em desenvolvimento web, estou preparado para enfrentar desafios tanto no frontend quanto no backend. Minha experiência vai desde a construção de interfaces de usuário atraentes e responsivas até a implementação de sistemas robustos nos bastidores.
-</details>
 
 ---
 
-## 🛠️ My skills and stacks / Minhas habilidades
+## 🛠️ My Skills
 
-### Languages / Linguagens
+### Languages
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -54,14 +42,14 @@
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
 </p>
 
-### Databases / Bancos de Dados
+### Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-### Tools / Ferramentas
+### Tools
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -72,15 +60,15 @@
 
 ---
 
-## 📊 Statistics GitHub / Estatísticas
+## 📊 GitHub Statistics
 
-![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=Theardripper&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Theardripper&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Theardripper&theme=dark)](https://git.io/streak-stats)
 
 ---
 
-## 📬 Get in touch / Contato
+## 📬 Get in Touch
 
 <a href="https://www.linkedin.com/in/eduardo-moura-7969531ab/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
